@@ -1,4 +1,4 @@
-# This is pet project where I try to recreate a terminal window
+# This is a pet project where I try to recreate a terminal window
 
 # Getting Started with Create React App
 
